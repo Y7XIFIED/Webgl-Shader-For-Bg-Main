@@ -8,3 +8,5 @@ Live Demo: [https://webgl-interactive-gradient.vercel.app](https://webgl-interac
 3. Build for production: `npm run build`
 
 Made by Y7XIFIED
+
+![Preview Demo](preview.gif)
