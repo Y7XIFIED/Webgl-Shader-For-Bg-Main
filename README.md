@@ -1,4 +1,4 @@
-<h3 align="center"><b>WEBGL-SHADER-FOR-BG-MAIN</b></h3>
+<h3 align="center"><b>Webgl-Shader-For-Bg-Main</b></h3>
 
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,vite,threejs" /></p>
 
