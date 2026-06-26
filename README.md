@@ -1,12 +1,13 @@
-# WebGL Interactive Gradient
+<h3 align="center"><b>WEBGL-SHADER-FOR-BG-MAIN</b></h3>
 
-Live Demo: [https://webgl-interactive-gradient.vercel.app](https://webgl-interactive-gradient.vercel.app)
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,vite,threejs" /></p>
 
-## Local Development
-1. Install dependencies: `npm install`
-2. Run development server: `npm run dev`
-3. Build for production: `npm run build`
+Dive into this mind-blowing, interactive web experience! Watch as it reacts seamlessly to your cursor. It is a visually stunning and dynamic web experiment built to bring some extra life to the browser.
 
-Made by Y7XIFIED
+## 🚀 Live Website
+Experience the fully interactive website live here: [https://webgl-interactive-gradient.vercel.app](https://webgl-interactive-gradient.vercel.app)
 
+## Preview
 ![Preview Demo](preview.gif)
+
+<div align="center"><p>Y7XIFIED</p></div>
