@@ -1,5 +1,7 @@
 <h3 align="center"><b>WEBGL-SHADER-FOR-BG-MAIN</b></h3>
 
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,vite,threejs" /></p>
+
 ![Preview Demo](preview.gif)
 
 ## 🚀 Live Website
@@ -56,7 +58,6 @@ webgl-interactive-gradient/
 ```
 
 ## 💻 Tech Stack
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,vite,threejs" /></p>
 
 - **HTML5 & CSS3**: Structural vectors and custom styling variables.
 - **JavaScript (ES6)**: Core logic and interactions.
