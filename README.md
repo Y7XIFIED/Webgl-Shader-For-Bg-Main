@@ -42,9 +42,9 @@ Webgl-Shader-For-Bg-Main/
 │   │   ├── Nasalization Rg.otf
 │   │   └── Nasalization_Rg.otf
 │   └── img
-│       ├── logo_02.png
-│       ├── logo_03.png
-│       └── logo_04.png
+│       ├── 1.png
+│       ├── 2.png
+│       └── 3.png
 ├── favicon.png
 ├── index.html
 ├── package-lock.json
