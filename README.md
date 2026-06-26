@@ -1,4 +1,4 @@
-<h3 align="center"><b>Webgl-Shader-For-Bg-Main</b></h3>
+<h3 align="center"><b>WebGL-Shader-For-BG-Main</b></h3>
 
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,vite,threejs" /></p>
 
@@ -18,8 +18,8 @@ Interact dynamically with your mouse or touch to explore the visual effects! Mov
 ### Setup Instructions
 1. Clone the repository:
 ```bash
-git clone https://github.com/Y7XIFIED/Webgl-Shader-For-Bg-Main.git
-cd Webgl-Shader-For-Bg-Main
+git clone https://github.com/Y7XIFIED/WebGL-Shader-For-BG-Main.git
+cd WebGL-Shader-For-BG-Main
 ```
 2. Install the package dependencies:
 ```bash
@@ -32,7 +32,7 @@ npm run dev
 
 ## 📂 Project Structure
 ```text
-Webgl-Shader-For-Bg-Main/
+WebGL-Shader-For-BG-Main/
 ├── .gitignore
 ├── .vercel
 │   ├── project.json
