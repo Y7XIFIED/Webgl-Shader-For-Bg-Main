@@ -18,8 +18,8 @@ Interact dynamically with your mouse or touch to explore the visual effects! Mov
 ### Setup Instructions
 1. Clone the repository:
 ```bash
-git clone https://github.com/Y7XIFIED/webgl-interactive-gradient.git
-cd webgl-interactive-gradient
+git clone https://github.com/Y7XIFIED/Webgl-Shader-For-Bg-Main.git
+cd Webgl-Shader-For-Bg-Main
 ```
 2. Install the package dependencies:
 ```bash
@@ -32,7 +32,7 @@ npm run dev
 
 ## 📂 Project Structure
 ```text
-webgl-interactive-gradient/
+Webgl-Shader-For-Bg-Main/
 ├── .gitignore
 ├── .vercel
 │   ├── project.json
